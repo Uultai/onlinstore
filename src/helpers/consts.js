@@ -8,4 +8,7 @@ export const CART = {
   GET_CART_LENGTH: "GET_CART_LENGTH",
 };
 
-export const JSON_API_PRODUCTS = "http://localhost:8000/products";
+// export const JSON_API_PRODUCTS = "http://localhost:8000/products";
+// for heroku
+export const JSON_API_PRODUCTS =
+  "https://onlinstore.herokuapp.com/api/products";
