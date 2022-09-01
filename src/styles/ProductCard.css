@@ -1,0 +1,13 @@
+.image {
+  width: 200px;
+}
+
+.button {
+  border-radius: 8px;
+  font-size: 18px;
+  background-color: rgb(4, 193, 4);
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: yellow;
+}

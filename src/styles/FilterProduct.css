@@ -1,0 +1,13 @@
+.form_container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+#demo-controlled-radio-buttons-group {
+  font-size: 15px;
+  font-weight: bold;
+}
+.form {
+  flex-wrap: wrap;
+  font-size: 1px;
+}

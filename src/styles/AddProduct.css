@@ -1,0 +1,10 @@
+/* .add-product__form {
+  background-color: aqua;
+  height: 400px;
+} */
+
+.box-add-product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
